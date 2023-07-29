@@ -1,12 +1,11 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
+title: 'Undergraduate Research Assistant'
+company: 'AI Transportation Research Lab'
 location: 'Boston, MA'
 range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+url: 'https://aichengbo.com'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Configured CARLA, an Unreal Engine-based simulation software, on a Windows machine to study the relationshipbetween roadway geometry and driving behavior in order to build an autonomous driving system.
+- Connected the environment to a Python client which allows users to manually drive cars in the simulation and recordtimestamped driving data in CSV files.

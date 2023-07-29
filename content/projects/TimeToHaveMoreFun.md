@@ -1,14 +1,11 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'NutriCount (HackMIT Project)'
+github: 'https://github.com/vibhhu/hackMIT'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Swift
+  - Vision
 company: ''
 showInProjects: true
 ---
-
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+An iOS app that allows users to scan food ingredient labels using the phone’s camera and assess how healthy the item is

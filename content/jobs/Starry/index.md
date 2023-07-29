@@ -1,12 +1,11 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+title: 'Software Engineering Intern'
+company: 'Lab for Advanced System Software'
+location: 'Amherst, MA'
+range: 'June - Aug 2022'
+url: 'https://lass.cs.umass.edu'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Developed a data analytics and visualization web dashboard using Streamlit to help users study their sleep data.
+- Organized and analyzed sleep data by using Pandas dataframes and generated charts using Matplotlib and Plotly.

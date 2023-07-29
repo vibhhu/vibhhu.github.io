@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['AWS', 'TypeScript', 'Docker', 'Smithy', 'Node.js', 'GraphQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,38 +135,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
-
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I love solving problems and building stuff. I started programming back in 2018 when I enrolled took a C++ course in high school. Fast forwarding to today, I've been lucky to have had some amazing internships in industry as well as academia.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
-          </div>
 
-          <ul className="skills-list">
+            <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
+            
+
+            <p>
+              <br/>
+              I also love indulging in the more mathy side of things, such as formal logic and cellular automata. Recently, I created a variation of <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Conway's Game of Life</a> which I hope you find interesting. My favorite book is <a href="https://en.wikipedia.org/wiki/Gödel,_Escher,_Bach">Gödel, Escher, Bach: an Eternal Golden Braid</a> by <a href="https://en.wikipedia.org/wiki/Douglas_Hofstadter">Douglas Hofstadter</a>.
+            </p>
+
+            
+          </div>
+
+          
         </StyledText>
 
         <StyledPic>

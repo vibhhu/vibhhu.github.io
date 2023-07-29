@@ -1,13 +1,11 @@
 ---
 date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Delaunay Triangulator'
+github: 'https://github.com/vibhhu/DelaunayTriangulator'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - SciPy
+  - Plotly
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+A Python script that computes the Delaunay Triangulation of randomly generated points and visualizes the result

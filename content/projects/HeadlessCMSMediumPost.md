@@ -1,15 +1,13 @@
 ---
 date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+title: '3D Geometry Engine'
+github: 'https://github.com/vibhhu/ShapeRenderer'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
+  - Pygame
+  - NumPy
+ 
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+A Pygame-based visualizer that you can use to draw and play around with interesting three-dimensional shapes

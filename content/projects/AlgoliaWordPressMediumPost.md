@@ -1,14 +1,12 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+title: 'Game of (Altered) Life'
+github: 'https://github.com/vibhhu/ConwaysGameOfLife'
+
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - Pygame
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A Python implementation of John Conway's famous cellular automaton with a tweak in the rules that leads to the formation of Sierpinski triangles 
