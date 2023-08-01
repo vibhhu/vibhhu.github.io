@@ -3,7 +3,7 @@ date: '2015-12-21'
 title: 'Undergraduate Research Assistant'
 company: 'AI Transportation Research Lab'
 location: 'Boston, MA'
-range: 'July - December 2015'
+range: 'Nov - Dec 2021'
 url: 'https://aichengbo.com'
 ---
 
